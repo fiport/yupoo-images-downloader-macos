@@ -1,0 +1,6 @@
+__pycache__/*
+.md
+*.json
+info.log
+build
+dist

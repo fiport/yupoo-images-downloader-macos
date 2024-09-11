@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+Pillow
+rich
+certifi
+aiohttp
+aiofiles
+regex
+alive_progress
+piexif
+pyinstaller
